@@ -1,6 +1,6 @@
 # 🌌 Orion — Engineer with a mathematics foundation, building toward AI systems
 
-Hi, I’m Orion — an engineer with a background in mathematics, operational IT, CRM systems, and data analysis. I’ve spent the last few years working hands‑on with Dynamics 365, SQL, Power Platform, and automation, while steadily expanding my software engineering and AI skillset through personal projects.
+Hi, I’m Orion — an engineer with a background in mathematics, operational IT, CRM systems, and data analysis. I’ve worked hands‑on with Dynamics 365, SQL, Power Platform, and automation in my professional roles, and I’m now actively developing my software engineering and AI skillset through focused personal projects.
 
 My work is shaped by three things:
 
@@ -8,7 +8,7 @@ My work is shaped by three things:
 - **a focus on clarity, structure, and maintainability**  
 - **a long‑term goal of building and supporting AI‑driven systems**
 
-I’m not trying to “look like” an AI engineer — I’m building the foundations properly.
+I’m focused on building the skills and understanding needed for AI engineering.
 
 ---
 
@@ -27,7 +27,7 @@ Lightweight classifiers, tagging tools, and prototypes exploring applied machine
 ### **🧱 Systems & Architecture**  
 Projects exploring clean folder structures, reproducible environments, and maintainable engineering patterns.
 
-These aren’t “portfolio pieces” — they’re working documents of my learning and engineering practice.
+These projects show my approach to learning, problem‑solving, and building reliable systems
 
 ---
 
@@ -51,7 +51,7 @@ I’m steadily moving toward **AI engineering**, with a focus on:
 - system design  
 - applied ML in real organisations  
 
-Dynamics engineering is part of that journey — it’s given me experience with complex systems, integrations, and real‑world data challenges.
+My experience with Dynamics 365 introduced me to system integrations, data flows, and operational constraints — all of which inform the engineering foundations I’m building now.
 
 ---
 
@@ -60,6 +60,10 @@ Dynamics engineering is part of that journey — it’s given me experience with
 - **GitHub:** github.com/lankymon  
 - **Location:** Nottingham, UK  
 
-If you’re working on clean data workflows, automation, or applied AI systems, I’m always up for a conversation.
+I’m always happy to connect with people working on interesting data or engineering problems.
+---
+
+**Professional identity:** Lance Charles Carr
+(Purple Ajah tendencies)
 
 ---
