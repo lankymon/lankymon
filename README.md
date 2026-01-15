@@ -55,12 +55,14 @@ My experience with Dynamics 365 introduced me to system integrations, data flows
 
 ---
 
-## 📫 Connect
-- **LinkedIn:** linkedin.com/in/carr-lance  
-- **GitHub:** github.com/lankymon  
-- **Location:** Nottingham, UK  
+### Connect
+
+🌐 **LinkedIn:** linkedin.com/in/carr-lance  
+💻 **GitHub:** github.com/lankymon  
+📍 **Location:** Nottingham, UK  
 
 I’m always happy to connect with people working on interesting data or engineering problems.
+
 ---
 
 **Professional identity:** Lance Charles Carr  
