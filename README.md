@@ -6,7 +6,7 @@ My work is shaped by three things:
 
 - **a mathematical way of thinking**  
 - **a focus on clarity, structure, and maintainability**  
-- **a long‑term goal of building and supporting AI‑driven systems**
+- **a long‑term direction toward applied AI and automation**
 
 I’m focused on building the skills and understanding needed for AI engineering.
 
@@ -42,7 +42,7 @@ These projects show my approach to learning, problem‑solving, and building rel
 ---
 
 ## 🚀 Where I’m heading
-I’m steadily moving toward **AI engineering**, with a focus on:
+My current direction involves strengthening skills that support applied AI, such as:
 
 - data pipelines  
 - model evaluation  
