@@ -63,7 +63,7 @@ My experience with Dynamics 365 introduced me to system integrations, data flows
 I’m always happy to connect with people working on interesting data or engineering problems.
 ---
 
-**Professional identity:** Lance Charles Carr
-(Purple Ajah tendencies)
+**Professional identity:** Lance Charles Carr  
+*(Purple Ajah tendencies)*
 
 ---
