@@ -27,7 +27,7 @@ Lightweight classifiers, tagging tools, and prototypes exploring applied machine
 ### **🧱 Systems & Architecture**  
 Projects exploring clean folder structures, reproducible environments, and maintainable engineering patterns.
 
-These projects show my approach to learning, problem‑solving, and building reliable systems
+These projects show my approach to learning, problem‑solving, and building reliable systems.
 
 ---
 
@@ -55,7 +55,7 @@ My experience with Dynamics 365 introduced me to system integrations, data flows
 
 ---
 
-### 🔗 Connect
+## 🔗 Connect
 
 🌐 **LinkedIn:** linkedin.com/in/carr-lance  
 💻 **GitHub:** github.com/lankymon  
